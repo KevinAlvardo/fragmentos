@@ -4,6 +4,9 @@
     <string name="saludo_segundo_fragmento">segundo Fracmentos</string>
     <string name="saludo_tercero_fragmento">Tercero Fracmentos</string>
     <string name="saludo_cuarto_fragmento">Cuarto Fracmentos</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="item_primer_fragmento">fragmento1</string>
+    <string name="item_segundo_fragmento">fragmento2</string>
+    <string name="item_tercero_fragmento">fragmento3</string>
+    <string name="item_cuarto_fragmento">fragmento4</string>
 </resources>
